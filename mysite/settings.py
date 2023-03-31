@@ -74,7 +74,7 @@ PAYME: dict = {
     'PAYME_KEY': env.str("PAYME_KEY"),
     'PAYME_URL': env.str("PAYME_URL"),
     'PAYME_CALL_BACK_URL': env.str("PAYME_CALL_BACK_URL"),
-    'PAYME_MIN_AMOUNT': env.int("PAYME_MIN_AMOUNT"),
+    'PAYME_MIN_AMOUNT': env.int("PAYME_MIN_AMOUNT", default=0),
     'PAYME_ACCOUNT': env.str("PAYME_ACCOUNT"),
 }
 

@@ -1,3 +1,4 @@
+drf-yasg==1.21.5
 environs==9.5.0
 flake8==6.0.0
 payme-pkg==2.1
