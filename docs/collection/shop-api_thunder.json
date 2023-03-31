@@ -1,0 +1,39 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "shop-api",
+    "dateExported": "2023-03-31T04:15:43.077Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "7c09454a-2654-4549-8fea-6c5e68bc21c5",
+            "colId": "fb8840c0-ff62-4bcc-ac76-3e04b30a4c0d",
+            "containerId": "",
+            "name": "pay-link",
+            "url": "http://localhost:8000/shop/pay-link/",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-03-31T04:12:54.015Z",
+            "modified": "2023-03-31T04:13:32.388Z",
+            "headers": [
+                {
+                    "name": "Accept",
+                    "value": "*/*",
+                    "isDisabled": true
+                },
+                {
+                    "name": "User-Agent",
+                    "value": "Thunder Client (https://www.thunderclient.com)",
+                    "isDisabled": true
+                }
+            ],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"order_id\": 999,\n  \"amount\": 999\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}

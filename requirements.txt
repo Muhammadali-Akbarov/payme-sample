@@ -1,0 +1,4 @@
+environs==9.5.0
+flake8==6.0.0
+payme-pkg==2.1
+pip-chill==1.0.1

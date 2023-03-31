@@ -1,0 +1,48 @@
+{
+    "info": {
+        "name": "shop-api",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+        "description": ""
+    },
+    "item": [
+        {
+            "name": "pay-link",
+            "request": {
+                "method": "POST",
+                "url": {
+                    "raw": "http://localhost:8000/shop/pay-link/",
+                    "path": [
+                        "shop",
+                        "pay-link"
+                    ],
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "8000"
+                },
+                "header": [
+                    {
+                        "key": "Accept",
+                        "value": "*/*",
+                        "disabled": true
+                    },
+                    {
+                        "key": "User-Agent",
+                        "value": "Thunder Client (https://www.thunderclient.com)",
+                        "disabled": true
+                    }
+                ],
+                "body": {
+                    "mode": "raw",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    },
+                    "raw": "{\n  \"order_id\": 999,\n  \"amount\": 999\n}"
+                }
+            }
+        }
+    ]
+}
