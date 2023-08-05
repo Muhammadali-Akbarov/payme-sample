@@ -1,7 +1,7 @@
 # Payme Implementation
 
-Support Group - https://t.me/+Ng1axYLNyBAyYTRi <br>
-This MVP project helps to implement <a href="https://github.com/Muhammadali-Akbarov/payme-pkg">payme-pkg</a>.
+Support Group - https://t.me/+bYouuOlqt1c3NmYy <br>
+This MVP project helps to implement <a href="https://github.com/PayTechUz/payme-pkg">payme-pkg</a>.
 
 ### API Endpoints <br>
 
