@@ -15,7 +15,7 @@ Pay link is a simple interface that provides pay-link functionality.
 
 # Installation
 * 1 - clone repo 
-   - ```git clone https://github.com/Muhammadali-Akbarov/payme-sample```
+   - ```git clone https://github.com/PayTechUz/payme-sample.git```
 * 2 - create a virtual environment and activate
   - ```pip3 install virtualenv```
   - ```virtualenv venv```
