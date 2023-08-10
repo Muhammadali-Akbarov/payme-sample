@@ -1,6 +1,6 @@
 from django.urls import path
 
-from apps.shop.views import GeneratePayLinkAPIView
+from apps.shop.views.pay_link import GeneratePayLinkAPIView
 
 
 urlpatterns = [

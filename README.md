@@ -27,5 +27,5 @@ Pay link is a simple interface that provides pay-link functionality.
   - ```cp .env-sample .env```
 * 6 - Run tests and app
   - ```python3 manage.py test```
+  - ```python3 manage.py migrate```
   - ```python3 manage.py runserver```
-

@@ -78,6 +78,8 @@ PAYME: dict = {
     'PAYME_ACCOUNT': env.str("PAYME_ACCOUNT"),
 }
 
+ORDER_MODEL = 'shop.models.CustomOrderModel'
+
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
