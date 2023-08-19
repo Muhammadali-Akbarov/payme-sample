@@ -1,12 +1,11 @@
 # Payme Implementation
 
-Support Group - https://t.me/+bYouuOlqt1c3NmYy <br>
+Support Group - <a href="https://t.me/+bYouuOlqt1c3NmYy">Telegram</a><br>
+YouTube - <a href="https://youtu.be/r2RO3kJVP7g"> Watch Video</a><br>
 This MVP project helps to implement <a href="https://github.com/PayTechUz/payme-pkg">payme-pkg</a>.
 
 <a href="https://youtu.be/r2RO3kJVP7g">
-  <p align="center">
-    <img width="70%" src="https://i.postimg.cc/5NRRSHXp/homemuhammadali-Downloads-Telegram-Desktop-Closer-Li-QWYD-No-Copyright-Music-Audio-Library-Music-m4a.gif">
-  </p>
+<img width="70%" src="https://i.postimg.cc/5NRRSHXp/homemuhammadali-Downloads-Telegram-Desktop-Closer-Li-QWYD-No-Copyright-Music-Audio-Library-Music-m4a.gif">
 </a>
 
 ### API Endpoints <br>
